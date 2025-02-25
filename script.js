@@ -167,7 +167,7 @@ window.addEventListener("resize", () => {
 
 // Animation options
 const opts = {
-  strings: ["HAPPY", "BIRTHDAY!", "to You"],
+  strings: ["HAPPY", "BIRTHDAY!", "Krishna"],
   charSize: 30,
   charSpacing: 35,
   lineHeight: 40,
